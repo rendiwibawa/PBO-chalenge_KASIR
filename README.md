@@ -3,7 +3,9 @@
 >jadi di sini saya mengguanakn metode INHERITANCE, inheritance merupakan konsep dalam pemrograman berorientasi objek yang memungkinkan
 untuk membuat suatu kelas yang didasarkan pada kelas yang sudah ada sehingga mewarisi
 semua metode dan variabelnya... gitu:)
-## Oh iya di sini juga pakai tanggal dan waktu otomatis loh :)
+>
+## Oh iya di sini juga pakai tanggal dan waktu otomatis loh... :)
+>  
 
 ## 𝙍𝙐𝙉 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙣𝙮𝙖
 ![Alt Text](https://github.com/rendiwibawa/PBO-chalenge_KASIR/blob/master/PBO4/kasir1.PNG)
